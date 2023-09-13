@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.tooltip {
+  background-color: rgb(28, 110, 55);
+  display: inline-block;
+  position: absolute;
+}
